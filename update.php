@@ -1,4 +1,6 @@
-<?php include 'db.php'; ?>
+<?php 
+//Menambahkan fitur Update data mahasiswa
+include 'db.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
